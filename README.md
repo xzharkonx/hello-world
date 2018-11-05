@@ -1,7 +1,7 @@
 # hello-world
-Mi primer repositorio Git Hub
-Luis Eduardo Garcia
-Correo: xzharkonx@gmail.com
-Github: https://github.com/xzharkonx
-facebook: https://www.facebook.com/zharkon1
-twitter: https://twitter.com/zharkon1
+<h2> Mi primer repositorio Git Hub </h2>
+<b/> Luis Eduardo Garcia 
+<br/> Correo: xzharkonx@gmail.com
+<br/> Github: https://github.com/xzharkonx
+<br/> Facebook: https://www.facebook.com/zharkon1
+<br/> Twitter: https://twitter.com/zharkon1
