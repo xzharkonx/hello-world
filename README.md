@@ -1,5 +1,5 @@
 # hello-world
-<h1> Mi primer repositorio Git Hub </h1>
+<h2> Mi primer repositorio Git Hub </h2>
 <b/> Luis Eduardo Garcia 
 <br/> Correo: xzharkonx@gmail.com
 <br/> Github: https://github.com/xzharkonx
